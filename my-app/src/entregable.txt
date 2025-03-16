@@ -1,0 +1,17 @@
+¿De donde sale la etiqueta Navigation?
+
+Es una funcion creada y esta se manda a llamar al inicio, para poder ser usada en otra archivo y realizar las operaciones que se crearon dentro de esta funcion.
+
+¿De donde salieron los parametros de la funcion Navigation{srcImg, alt}?
+
+Como esta en una funcion, al ser creada se pusieron estos dos parametros, para que se pueda manipular informacion dentro de esta misma.
+
+¿Donde se importan los archivos css, imagenes, y como es que se importa un componente?
+
+Los archivos css, se importan al inicio con import y su reta relativa.
+Las imagenes con src se importan, pero deben estar dentro de los archivos para que se visualicen las imagenes dentro del proyecto.
+Y con los componentes es de la misma manera que los archivos css, con import 
+
+
+
+
